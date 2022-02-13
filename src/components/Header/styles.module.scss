@@ -11,6 +11,11 @@
 
   display: flex;
   align-items: center;
+  justify-content: space-between;
+
+  .headerLeft {
+    display: flex;
+  }
 
   nav {
     height: 5rem;
